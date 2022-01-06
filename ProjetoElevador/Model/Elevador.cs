@@ -43,7 +43,7 @@ namespace ProjetoElevador.Model
             }
             else
             {
-                return "Elevador cheio,favor aguardar o próximo";
+                return "Elevador com capacidade total, favor aguardar o próximo";
 
             }
         }
@@ -81,7 +81,7 @@ namespace ProjetoElevador.Model
 
         public string Descer()
         {
-            if (AndarAtual >= 0)
+            if (AndarAtual > 0)
             {
                 AndarAtual--;
                 return "Desceu um andar, atualmente ele está no " + AndarAtual + "º andar e tem " + QtdPessoas + " pessoa(s) no elevador";
