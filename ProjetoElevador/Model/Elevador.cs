@@ -11,7 +11,7 @@ namespace ProjetoElevador.Model
 
     public class Elevador
     {
-        public Elevador() // Contrutor
+        public Elevador() 
         {
             AndarAtual = 0;
             QtdPessoas = 0;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj": {}
+    "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\GitHub\\github-ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj": {
+    "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\GitHub\\github-ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj",
+        "projectUniqueName": "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\GitHub\\github-ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj",
         "projectName": "ProjetoElevador",
-        "projectPath": "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj",
+        "projectPath": "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\GitHub\\github-ProjetoElevador\\ProjetoElevador\\ProjetoElevador.csproj",
         "packagesPath": "C:\\Users\\Alexandre Silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\ProjetoElevador\\obj\\",
+        "outputPath": "C:\\Users\\Alexandre Silva\\source\\repos\\ProjetoElevador\\GitHub\\github-ProjetoElevador\\ProjetoElevador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
