@@ -5,7 +5,12 @@
       "ProjectGuid": "699d3315-ec17-4648-9e6a-236bdf23b5eb",
       "DisplayName": "ProjetoElevador",
       "ColorIndex": 0
+    },
+    "3d4944da-82e2-492d-b32d-7b626901aede": {
+      "ProjectGuid": "3d4944da-82e2-492d-b32d-7b626901aede",
+      "DisplayName": "ProjetoElevador_Documentacao",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

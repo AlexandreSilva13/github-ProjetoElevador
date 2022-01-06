@@ -66,7 +66,7 @@ namespace ProjetoElevador.Model
 
         public string Subir()
         {
-            if (AndarAtual <= TotalAndares)
+            if (AndarAtual < TotalAndares)
             {
                 AndarAtual++;
                 return "Subiu um andar, atualmente ele está no " + AndarAtual + "º andar e tem " + QtdPessoas + " pessoa(s) no elevador";
@@ -81,7 +81,7 @@ namespace ProjetoElevador.Model
 
         public string Descer()
         {
-            if (AndarAtual > 0)
+            if (AndarAtual >= 0)
             {
                 AndarAtual--;
                 return "Desceu um andar, atualmente ele está no " + AndarAtual + "º andar e tem " + QtdPessoas + " pessoa(s) no elevador";
